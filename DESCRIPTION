@@ -7,3 +7,6 @@ Author: Emre Akadal (@akadal), Mehmet Hakan Satman (@jbytecode)
 Maintainer: Emre Akadal <akadal@istanbul.edu.tr>
 Description: A description will be added here
 License: MIT
+Suggests: 
+    testthat
+
