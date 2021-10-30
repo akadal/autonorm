@@ -4,7 +4,7 @@ Title: A package for auto-generating relational databases from text files using 
 Version: 1.0
 Date: 2020-09-14
 Author: Emre Akadal (@akadal), Mehmet Hakan Satman (@jbytecode)
-Maintainer: Emre Akadal <akadal@istanbul.edu.tr>
+Maintainer: Emre Akadal <emre.akadal@istanbul.edu.tr>
 Description: A description will be added here
 License: MIT
 Suggests: 
